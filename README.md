@@ -19,10 +19,13 @@ This tutorial outlines the implementation of  Active Directory within Azure Virt
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Stage 1 - Configuring for Active Directory
+- Stage 2 - Installing Active Directory
+- Stage 3 - Promoting as a Domain Controller
+- Stage 4 - Creating a Domain Admin User
+- Stage 5 - Joining the Client VM to the Domain
+- Stage 6 - Adding Non-Administrative Users
+- Stage 7 - Creating Bulk Users With Powershell
 
 ---
 
